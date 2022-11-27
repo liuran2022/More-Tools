@@ -1,0 +1,30 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "青金石工具更新了，快来试玩吧！ by 流然",
+    "name": "更多的工具-青金石更新（1w4a）",
+    "uuid": "d128b811-cf3c-42bd-814b-615584674939",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "青金石工具更新了，快来试玩吧！ by 流然",
+      "type": "resources",
+      "uuid": "c1d85d8a-cc59-444b-a6d3-bcd3763076c7",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

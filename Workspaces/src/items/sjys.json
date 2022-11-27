@@ -1,0 +1,18 @@
+{
+	"format_version":"1.16.100",
+	"minecraft:item":{
+		"components":{
+			"minecraft:max_stack_size":1,
+			"minecraft:foil":true,
+			"minecraft:use_duration":32,
+			"minecraft:icon":{
+				"texture":"mt_sjys"
+			}
+		},
+		"description":{
+			"identifier":"mt:sjys",
+			"#useTexture":"sjys",
+			"#nameInGame":"时间药水"
+		}
+	}
+}

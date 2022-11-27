@@ -1,0 +1,138 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "egg_camel": {
+      "textures": "textures/items/egg_camel"
+    },
+    "egg_lion": {
+      "textures": "textures/items/egg_lion"
+    },
+    "egg_penguin": {
+      "textures": "textures/items/egg_penguin"
+    },
+    "egg_tiger": {
+      "textures": "textures/items/egg_tiger"
+    },
+    "egg_elephant": {
+      "textures": "textures/items/egg_elephant"
+    },
+    "egg_deer": {
+      "textures": "textures/items/egg_deer"
+    },
+    "egg_panther": {
+      "textures": "textures/items/egg_panther"
+    },
+    "egg_frog": {
+      "textures": "textures/items/egg_frog"
+    },
+    "egg_crocodile": {
+      "textures": "textures/items/egg_crocodile"
+    },
+    "egg_mouse": {
+      "textures": "textures/items/egg_mouse"
+    },
+    "gallardo": {
+      "textures": "textures/items/gallardo"
+    },
+    "bench": {
+      "textures": "textures/items/bench"
+    },
+    "christmas_tree": {
+      "textures": "textures/items/christmas_tree"
+    },
+    "tivi": {
+      "textures": "textures/items/tivi"
+    },
+    "closet": {
+      "textures": "textures/items/closet"
+    },
+    "laptop": {
+      "textures": "textures/items/laptop"
+    },
+    "piano": {
+      "textures": "textures/items/piano"
+    },
+    "armchairs": {
+      "textures": "textures/items/armchairs"
+    },
+    "chair": {
+      "textures": "textures/items/chair"
+    },
+    "big_table": {
+      "textures": "textures/items/big_table"
+    },
+    "small_table": {
+      "textures": "textures/items/small_table"
+    },
+    "drone": {
+      "textures": "textures/items/drone"
+    },
+    "colorful_gifts": {
+      "textures": "textures/items/colorful_gifts"
+    },
+    "dsjkz:mdsjpg": {
+      "textures": "textures/items/pamobile/dsjkz_mdsjpg"
+    },
+    "yszsj_sic": {
+      "textures": "textures/items/pamobile/yszsj_sic"
+    },
+    "yszsj_sanc": {
+      "textures": "textures/items/pamobile/yszsj_sanc"
+    },
+    "yszsj_yc": {
+      "textures": "textures/items/pamobile/yszsj_yc"
+    },
+    "yszsj_ec": {
+      "textures": "textures/items/pamobile/yszsj_ec"
+    },
+    "gddj_mdsjj": {
+      "textures": "textures/items/pamobile/gddj_mdsjj"
+    },
+    "yszsj_wc": {
+      "textures": "textures/items/pamobile/yszsj_wc"
+    },
+    "yszsj_qc": {
+      "textures": "textures/items/pamobile/yszsj_qc"
+    },
+    "yszsj_cd": {
+      "textures": "textures/items/pamobile/yszsj_cd"
+    },
+    "yszsj_lc": {
+      "textures": "textures/items/pamobile/yszsj_lc"
+    },
+    "moretools_qjsg": {
+      "textures": "textures/items/pamobile/moretools_qjsg"
+    },
+    "moretools_qjsj": {
+      "textures": "textures/items/pamobile/moretools_qjsj"
+    },
+    "moretools_qjsf": {
+      "textures": "textures/items/pamobile/moretools_qjsf"
+    },
+    "moretools_qjszs": {
+      "textures": "textures/items/pamobile/moretools_qjszs"
+    },
+    "moretools_qjsxj": {
+      "textures": [
+        "textures/items/pamobile/moretools_qjsxj"
+      ]
+    },
+    "moretools_qjsxz": {
+      "textures": [
+        "textures/items/pamobile/moretools_qjsxz"
+      ]
+    },
+    "moretools_qjsht": {
+      "textures": [
+        "textures/items/pamobile/moretools_qjsht"
+      ]
+    },
+	"moretools_qjscz":{
+		"textures":"textures/icons/moretools:qjscz"
+	},
+	"moretools_qjsct":{
+		"textures":"textures/icons/moretools:qjsct"
+	}
+  }
+}

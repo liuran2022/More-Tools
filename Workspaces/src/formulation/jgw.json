@@ -1,0 +1,28 @@
+{
+	"format_version":"1.12",
+	"minecraft:recipe_shaped":{
+		"result":{
+			"item":"mt:jgw",
+			"count":1
+		},
+		"pattern":[
+			"   ",
+			"DE ",
+			"   "
+		],
+		"description":{
+			"identifier":"mt:jgw"
+		},
+		"key":{
+			"D":{
+				"item":"mt:sjys"
+			},
+			"E":{
+				"item":"minecraft:turtle_helmet"
+			}
+		},
+		"tags":[
+			"crafting_table"
+		]
+	}
+}

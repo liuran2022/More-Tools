@@ -1,0 +1,58 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "cd_28ee4a7f"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "ABC",
+      "DEF",
+      "GHI"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:apple",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:managrove_planks",
+        "data": 0
+      },
+      "C": {
+        "item": "minecraft:beetroot",
+        "data": 0
+      },
+      "D": {
+        "item": "minecraft:concrete",
+        "data": 14
+      },
+      "E": {
+        "item": "yszsj:wc",
+        "data": 0
+      },
+      "F": {
+        "item": "minecraft:crimson_hyphae",
+        "data": 0
+      },
+      "G": {
+        "item": "minecraft:dye",
+        "data": 1
+      },
+      "H": {
+        "item": "minecraft:beef",
+        "data": 0
+      },
+      "I": {
+        "item": "minecraft:magma",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "yszsj:cd",
+      "count": 1
+    }
+  }
+}

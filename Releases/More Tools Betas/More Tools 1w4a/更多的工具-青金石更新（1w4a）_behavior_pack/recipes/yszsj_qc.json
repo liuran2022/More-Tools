@@ -1,0 +1,26 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "qc_001db5cd"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "AAA",
+      "AAA",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "yszsj:lc",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "yszsj:qc",
+      "count": 1
+    }
+  }
+}

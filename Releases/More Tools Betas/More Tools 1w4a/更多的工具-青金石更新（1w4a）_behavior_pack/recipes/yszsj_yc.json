@@ -1,0 +1,26 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "yc_6faf8a98"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "AAA",
+      "AAA",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:diamond_sword",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "yszsj:yc",
+      "count": 1
+    }
+  }
+}

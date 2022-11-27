@@ -1,0 +1,10 @@
+give @s gddj:mdsjj
+give @s dsjkz:mdsjpg
+give @s yszsj:yc
+give @s yszsj:ec
+give @s yszsj:sanc
+give @s yszsj:sic
+give @s yszsj:cd
+give @s yszsj:wc
+give @s yszsj:lc
+give @s yszsj:qc

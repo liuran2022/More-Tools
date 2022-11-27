@@ -1,0 +1,30 @@
+{
+	"texture_data":{
+		"mt_sjys":{
+			"textures":"textures/icons/sjys"
+		},
+		"mt_bz":{
+			"textures":"textures/icons/bz"
+		},
+		"mt_javase":{
+			"textures":"textures/icons/javase"
+		},
+		"mt_qjsc":{
+			"textures":"textures/icons/qjsc"
+		},
+		"mt_qjsct":{
+			"textures":"textures/icons/qjsct"
+		},
+		"mt_jar":{
+			"textures":"textures/icons/jar"
+		},
+		"mt_jgw":{
+			"textures":"textures/icons/jgw"
+		},
+		"mt_oracle":{
+			"textures":"textures/icons/oracle"
+		}
+	},
+	"resource_pack_name":"vanilla",
+	"texture_name":"atlas.items"
+}

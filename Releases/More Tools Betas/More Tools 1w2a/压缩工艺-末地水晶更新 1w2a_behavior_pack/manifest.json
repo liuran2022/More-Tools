@@ -1,0 +1,40 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "这只是一个测试版！之后会有正式版 by 流然",
+    "name": "压缩工艺-末地水晶更新 1w2a",
+    "uuid": "4b38ea62-fb28-4dd2-a1e1-964277771abe",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "这只是一个测试版！之后会有正式版 by 流然",
+      "type": "data",
+      "uuid": "b5f92562-75cb-4433-add9-4ee0d5b08404",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "14eee7c4-7cd1-47bc-a20a-6de681ab7cb4",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

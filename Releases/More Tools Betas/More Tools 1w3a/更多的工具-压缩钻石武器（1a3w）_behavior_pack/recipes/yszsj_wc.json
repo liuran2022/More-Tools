@@ -1,0 +1,26 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "wc_fd3f0bcd"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "AAA",
+      "AAA",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "yszsj:sic",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "yszsj:wc",
+      "count": 1
+    }
+  }
+}

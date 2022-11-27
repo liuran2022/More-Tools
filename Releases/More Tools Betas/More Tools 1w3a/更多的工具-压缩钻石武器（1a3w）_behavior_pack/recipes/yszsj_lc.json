@@ -1,0 +1,26 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lc_dca738ba"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "AAA",
+      "AAA",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "yszsj:wc",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "yszsj:lc",
+      "count": 1
+    }
+  }
+}

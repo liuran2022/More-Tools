@@ -1,0 +1,28 @@
+{
+	"format_version":"1.12",
+	"minecraft:recipe_shaped":{
+		"result":{
+			"item":"mt:oracle",
+			"count":1
+		},
+		"pattern":[
+			"   ",
+			"DE ",
+			"   "
+		],
+		"description":{
+			"identifier":"mt:oracle"
+		},
+		"key":{
+			"D":{
+				"item":"mt:sjys"
+			},
+			"E":{
+				"item":"mt:jgw"
+			}
+		},
+		"tags":[
+			"crafting_table"
+		]
+	}
+}

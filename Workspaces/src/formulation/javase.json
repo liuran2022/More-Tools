@@ -1,0 +1,25 @@
+{
+	"format_version":"1.12",
+	"minecraft:recipe_shaped":{
+		"result":{
+			"item":"mt:javase",
+			"count":9
+		},
+		"pattern":[
+			"   ",
+			" E ",
+			"   "
+		],
+		"description":{
+			"identifier":"mt:javase"
+		},
+		"key":{
+			"E":{
+				"item":"mt:oracle"
+			}
+		},
+		"tags":[
+			"crafting_table"
+		]
+	}
+}

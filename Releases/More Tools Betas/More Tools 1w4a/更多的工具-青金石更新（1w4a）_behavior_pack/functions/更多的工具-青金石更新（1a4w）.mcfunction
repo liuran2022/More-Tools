@@ -1,0 +1,17 @@
+give @s dsjkz:mdsjpg
+give @s yszsj:sic
+give @s yszsj:sanc
+give @s yszsj:yc
+give @s yszsj:ec
+give @s gddj:mdsjj
+give @s yszsj:wc
+give @s yszsj:qc
+give @s yszsj:cd
+give @s yszsj:lc
+give @s moretools:qjsg
+give @s moretools:qjsj
+give @s moretools:qjsf
+give @s moretools:qjszs
+give @s moretools:qjsxj
+give @s moretools:qjsxz
+give @s moretools:qjsht
